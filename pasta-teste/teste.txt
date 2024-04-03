@@ -1,2 +1,6 @@
 lsdads    
+<<<<<<< HEAD
 quero um teste  
+=======
+isto é o segundo teste
+>>>>>>> exercicio01_02
